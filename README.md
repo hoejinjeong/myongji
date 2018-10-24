@@ -302,4 +302,4 @@ h2  <-이것은 ---
 ~~~
 
 ## 인라인 코드 Inline Code Blocks
-### ``(Back quote)`로 감싸진 텍스트
+### ` `(Back quote)` 로 감싸진 텍스트
