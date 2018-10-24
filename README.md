@@ -374,3 +374,20 @@ example@gmail.com
 [목차](#index)
 ```
 [목차](#index)
+
+## 리스트 Lists
+## 순서 있는 리스트 Orderde Lists
+### `no.` 숫자 다음 .을 찍는다.(적힌 숫자랑 상관없이 순서대로 번호가 매겨진다.)
+
+```
+1. list item 1
+1. list item 2
+2. list item 3
+0. list item 4
+3. list item 5
+```
+1. list item 1
+1. list item 2
+2. list item 3
+0. list item 4
+3. list item 5
