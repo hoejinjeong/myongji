@@ -362,3 +362,8 @@ ___
 [Naver][2]
 [1]: http://www.google.com/"구글"
 [2]: http://naver.com/"네이버"
+
+[Google][1]
+[Naver][2]
+[1]: http://google.com/ “구글”
+[2]: http://naver.com/ “네이버” 
