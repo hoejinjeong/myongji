@@ -512,7 +512,11 @@ ___
 [2]:http://naver.com."네이버"
 ```
 ### 실행결과
-[Google][1] [1]: http://google.com/ "구글" (이건 잘모르겠습니다 교수님..)
+[Google][1]
+[Naver][2]
+[1]:http://www.google.co.kr"구글"
+[2]:http://naver.com."네이버"
+(이건 잘 모르겠습니다.. 교수님)
 
 ```
 URL링크
