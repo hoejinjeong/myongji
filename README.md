@@ -434,3 +434,16 @@ example@gmail.com
 - list item 1
     - list item 1-1
     - list item 1-2
+
+## 테이블 Tables
+### 테이블 생성
+```
+Header 1 | Header 2
+--------- | ---------
+Content 1 | Content 3
+Content 2 | Content 4
+```
+Header 1 | Header 2
+--------- | ---------
+Content 1 | Content 3
+Content 2 | Content 4
