@@ -360,5 +360,5 @@ ___
 ```
 [Google][1]
 [Naver][2]
-[1]: http://www.google.co.kr"구글"
-[2]: http://naver.com."네이버"
+[1]: http://www.google.com/"구글"
+[2]: http://naver.com/"네이버"
