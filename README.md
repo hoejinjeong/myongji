@@ -409,10 +409,10 @@ example@gmail.com
 ### `*`, `+`, `-` 으로 시작
 ```
 * list item 1
- * list item 1-1
- * list item 1-2
+    * list item 1-1
+    * list item 1-2
 ```
 ### 
 * list item 1
- * list item 1-1
- * list item 1-2
+    * list item 1-1
+    * list item 1-2
