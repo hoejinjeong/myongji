@@ -412,7 +412,25 @@ example@gmail.com
     * list item 1-1
     * list item 1-2
 ```
-### 
+### 실행결과
 * list item 1
     * list item 1-1
     * list item 1-2
+```
++ list item 1
+    + list item 1-1
+    + list item 1-2
+```
+### 실행결과
++ list item 1
+    + list item 1-1
+    + list item 1-2
+```
+- list item 1
+    - list item 1-1
+    - list item 1-2
+```
+### 실행결과
+- list item 1
+    - list item 1-1
+    - list item 1-2
