@@ -480,4 +480,14 @@ Content 2 | Content 4
 ```
 ### 실행결과
 ![alt text][1]
-[1]: /test.png
+[1]: /test.png (이거도 잘모르겠습니다. 교수님..)
+
+## 각주 Footnotes
+```
+각주입니다[^id]
+[^id]: 각주에 대한 설명.
+```
+###실행결과
+각주입니다[^id]
+[^id]: 각주에 대한 설명.
+###Git Hub에서는 footnote를 지원해주지 않습니다.
