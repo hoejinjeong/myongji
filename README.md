@@ -359,5 +359,3 @@ ___
 [2]:http://naver.com."네이버"
 ```
 [Google][1] [1]: http://google.com/ "구글"
-[Naver][2] [2]: http://naver.com/ "네이버" 
-
