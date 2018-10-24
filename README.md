@@ -366,4 +366,11 @@ URL링크
 example@gmail.com/
 ```
 <http://google.com>
-example@gmail.com/
+example@gmail.com
+
+## 내부링크 Internal(Anchored) Links
+### `[링크](#id)` 내부링크
+```
+[목차](#index)
+```
+[목차](#index)
