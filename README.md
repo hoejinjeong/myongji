@@ -6,16 +6,16 @@
 ####   git config --global user.name "Your name"
 ####   git config --global user.email "Your email address"
    
-###   저장소별 사용자명 / 이메일 구성하기 (해당저장소 디렉터리로 이동후)
+>> ###   저장소별 사용자명 / 이메일 구성하기 (해당저장소 디렉터리로 이동후)
 ####   git config user.name "Your name"
 ####   git config user.email "your email address"
    
 #####   참고로 user 설정이 되어 있지 않으면 Github에 있는 repository에 변경사항을 푸시 한다고 해도 commit 집계도 안되고 해당 커밋의 작성자 프로필 아이콘도 ? 로 표시되기 때문에 웬만하면 name과 email 주소를 설정하길 추천한다.
    
-###   전역 설정 정보 조회
+>> ###   전역 설정 정보 조회
 ####   git config --global --list
    
-###   저장소별 설정 정보 조회
+>> ###   저장소별 설정 정보 조회
 ####   git config --list
    
 ###   Git의 출력결과 색상 활성화하기
