@@ -358,4 +358,12 @@ ___
 [1]:http://www.google.co.kr"구글"
 [2]:http://naver.com."네이버"
 ```
-[Google][1] [1]: http://google.com/ "구글"
+[Google][1] [1]: http://google.com/ "구글" (이건 잘모르겠습니다 교수님..)
+
+```
+URL링크
+<http://google.com/>
+<example@gmail.com/>
+```
+<http://google.com/>
+<example@gmail.com/>
