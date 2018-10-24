@@ -362,8 +362,8 @@ ___
 
 ```
 URL링크
-<http://google.com/>
-<example@gmail.com/>
+<http://google.com>
+example@gmail.com/
 ```
-<http://google.com/>
+<http://google.com>
 example@gmail.com/
