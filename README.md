@@ -449,7 +449,7 @@ Header 1 | Header 2
 Content 1 | Content 3
 Content 2 | Content 4
 
-###테이블 정렬
+### 테이블 정렬
 ```
 | Header 1 | Header 2 | Header 3 |
 | :-------- | :--------: | --------: |
@@ -459,3 +459,25 @@ Content 2 | Content 4
 | Header 1 | Header 2 | Header 3 |
 | :-------- | :--------: | --------: |
 | Left | Center | Right |
+
+## 이미지 Adding Images
+### 인라인 이미지
+```
+![alt text](/test.png )
+```
+### 실행결과
+![alt text](/test.png )
+### 링크이미지
+```
+![alt text](image_URL)
+```
+### 실행결과
+![alt text](image_URL)
+### 참조이미지
+```
+![alt text][1]
+[1]: /test.png
+```
+### 실행결과
+![alt text][1]
+[1]: /test.png
